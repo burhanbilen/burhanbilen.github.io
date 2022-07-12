@@ -1,7 +1,7 @@
 # Site
 title:              Burhan Bilen
-bio:                'Portfolio'
-description:        "My Summary"
+bio:                "Hi there, I'm Burhan. I'm a Full Stack Software Developer. Currently, I'm working as Data Analytics & Automation Developer at Nokia."
+description:        "Hi there, I'm Burhan. I'm a Full Stack Software Developer. Currently, I'm working as Data Analytics & Automation Developer at Nokia."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -18,7 +18,7 @@ kramdown:
   auto_ids:         true
   footnote_nr:      1
   entity_output:    as_char
-  toc_levels:       1..6
+  toc_levels:       1..5
   enable_coderay:   false
 mathjax:            true
 sass:
