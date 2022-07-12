@@ -69,7 +69,7 @@ comments: false
 </p>
 
 <p style="margin:6px;">
-    <img src="https://newscrewdriver.files.wordpress.com/2018/02/flask.png?w=700" height="50px" alt="Flask" title="Flask">
+    <img src="https://newscrewdriver.files.wordpress.com/2018/02/flask.png" width="50px" alt="Flask" title="Flask">
 </p>
 
 <p style="margin:6px;">
@@ -103,7 +103,7 @@ comments: false
 </p>
 
 <p style="margin:6px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" width="50px" alt="React" title="React">
+    <img src="http://ibthemespro.com/docs/beny/img/side-nav/cmm4.png" width="50px" alt="React" title="React">
 </p>
 
 <p style="margin:6px;">
