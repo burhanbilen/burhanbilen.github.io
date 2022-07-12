@@ -7,16 +7,16 @@ comments: false
 ---
 
 | Digital Skills      | Python Libraries | Areas of Interest |
-| :---        |    :----:   |          ---: |
-|Python, C# |NumPy, Pandas |Python Programming | 
-|PostgreSQL, MySQL, MongoDB, Redis |Keras, TensorFlow |Backend Development ||
+| ----------   |    ---------- |       ---------- |
+|Python, C#  |NumPy, Pandas |Python Programming | 
+|PostgreSQL, MySQL, MongoDB, Redis |Keras, TensorFlow |Backend Development | |
 |SQLAlchemy | BeautifulSoup, Fbprophet| Data Mining & Analysis|
-|Machine Learning, Deep Learning | Matplotlib, Seaborn, Plotly ||
-|HTML, CSS, Bootstrap | Sklearn, NLTK ||
-|JavaScript, React | Tkinter, OpenCV ||
-|Flask, Django | re, Pickle, Crontab ||
-|Git, Docker | pyodbc, psycopg2, PyMongo, flask-redis ||
-|Linux, Bash | logging, json, pyyaml ||
+|Machine Learning, Deep Learning | Matplotlib, Seaborn, Plotly | |
+|HTML, CSS, Bootstrap | Sklearn, NLTK | |
+|JavaScript, React | Tkinter, OpenCV | |
+|Flask, Django | re, Pickle, Crontab | |
+|Git, Docker | pyodbc, psycopg2, PyMongo, flask-redis | |
+|Linux, Bash | logging, json, pyyaml | |
 
 &nbsp;&nbsp;
 <div style="display: flex;">
