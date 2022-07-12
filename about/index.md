@@ -6,7 +6,8 @@ date: 2022-07-12
 comments: false
 ---
 
-<table border="0" style="margin-left:auto; margin-right:auto;">
+<table border="0" style="position : absolute;
+margin-left:auto; margin-right:auto;">
  <tr>
     <td><b style="font-size:30px">Digital Skills</b></td>
     <td><b style="font-size:30px">Areas of Interest</b></td>
