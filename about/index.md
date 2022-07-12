@@ -8,8 +8,8 @@ comments: false
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">## Digital Skills</b></td>
-    <td><b style="font-size:30px">## Areas of Interest</b></td>
+    <td><b style="font-size:30px">Digital Skills</b></td>
+    <td><b style="font-size:30px">Areas of Interest</b></td>
  </tr>
  <tr>
      <td>
