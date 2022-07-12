@@ -35,4 +35,7 @@ comments: false
 </table>
 </div>
 
+![Python]("https://www.flaticon.com/free-icon/python_5968350" "Python")
+
+
 Theme by [Moon](https://taylantatli.github.io/Moon/moon-theme/)
