@@ -69,7 +69,7 @@ comments: false
 </p>
 
 <p style="margin:6px;">
-    <img src="https://newscrewdriver.files.wordpress.com/2018/02/flask.png?w=700" width="50px" alt="Flask" title="Flask">
+    <img src="https://newscrewdriver.files.wordpress.com/2018/02/flask.png?w=700" height="50px" alt="Flask" title="Flask">
 </p>
 
 <p style="margin:6px;">
@@ -87,7 +87,7 @@ comments: false
 </div>
 <div style="display: flex;">
 <p style="margin:6px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3521676-2945120.png" width="50px" alt="MongoDB" title="MongoDB">
+    <img src="https://img.icons8.com/color/480/mongodb.png" width="50px" alt="MongoDB" title="MongoDB">
 </p>
 
 <p style="margin:6px;">
