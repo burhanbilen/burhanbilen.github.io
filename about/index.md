@@ -39,7 +39,6 @@ comments: false
 
 &nbsp;&nbsp;
 <div style="display: flex;">
-
 <p style="margin:6px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px" alt="Python" title="Python">
 </p>
@@ -67,7 +66,9 @@ comments: false
 <p style="margin:6px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" alt="CSS" title="CSS">
 </p>
+</div>
 
+<div style="display: flex;">
 <p style="margin:6px;">
     <img src="https://newscrewdriver.files.wordpress.com/2018/02/flask.png" width="50px" alt="Flask" title="Flask">
 </p>
@@ -84,8 +85,6 @@ comments: false
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50px" alt="Visual Studio Code" title="Visual Studio Code">
 </p>
 
-</div>
-<div style="display: flex;">
 <p style="margin:6px;">
     <img src="https://img.icons8.com/color/480/mongodb.png" width="50px" alt="MongoDB" title="MongoDB">
 </p>
@@ -97,7 +96,9 @@ comments: false
 <p style="margin:6px;">
     <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="50px" alt="Git" title="Git">
 </p>
+</div>
 
+<div style="display: flex;">
 <p style="margin:6px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="50px" alt="Docker" title="Docker">
 </p>
@@ -125,7 +126,6 @@ comments: false
 <p style="margin:6px;">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" width="50px" alt="Bash" title="Bash">
 </p>
-
 </div>
 
 &nbsp;&nbsp;
