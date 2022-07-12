@@ -68,7 +68,7 @@ comments: false
 </p>
 
 <p style="margin:6px;">
-    <img src="https://newscrewdriver.files.wordpress.com/2018/02/flask.png" width="50px" alt="Flask" title="Flask">
+    <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" width="50px" alt="Flask" title="Flask">
 </p>
 
 <p style="margin:6px;">
