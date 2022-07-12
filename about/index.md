@@ -63,7 +63,6 @@ comments: false
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width=50px alt="MySQL" title="MySQL">
 </p>
 
-
 <p style="margin:6px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width=50px alt="HTML" title="HTML">
 </p>
@@ -82,6 +81,10 @@ comments: false
 
 <p style="margin:6px;">
     <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width=50px alt="Postman" title="Postman">
+</p>
+
+<p style="margin:6px;">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width=50px alt="Visual Studio Code" title="Visual Studio Code">
 </p>
 
 </div>
@@ -112,6 +115,10 @@ comments: false
 
 <p style="margin:6px;">
     <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width=50px alt="Linux Ubuntu" title="Linux Ubuntu">
+</p>
+
+<p style="margin:6px;">
+    <img src="https://desnar.com/static/images/prog_lang/rest.png" width=50px alt="Visual Studio Code" title="Visual Studio Code">
 </p>
 
 <p style="margin:6px;">
