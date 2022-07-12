@@ -16,4 +16,7 @@ comments: false
 * Git, Docker
 * Linux, Bash
 
-Theme by (Moon)[https://taylantatli.github.io/Moon/moon-theme/]
+
+
+
+Theme by [Moon](https://taylantatli.github.io/Moon/moon-theme/)
