@@ -22,17 +22,12 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {% for post in site.posts %} 
-                        {% if post.project %}
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="/{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="/{{ post.url }}" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
-                      {% endif %}
-                    {% endfor %}
+                    <ol>
+                        <li><a href="https://detectlanguages.herokuapp.com/">Language Detector</a></li>
+                        <li><a href="http://summarix.herokuapp.com/">Text Summarizer (Global Summarizer)</a></li>
+                        <li><a href="http://fast-check.herokuapp.com/">Fast-Check (Dataset Scanner)</a></li>
+                        <li><a href="https://urunanalizi.herokuapp.com/">Amazon Sentiment Analyzer (Only Turkish Reviews)</a></li>
+                    </ol>
                 </div>
             </div>
         </div>
