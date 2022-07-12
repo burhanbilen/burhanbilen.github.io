@@ -90,7 +90,7 @@ comments: false
 </div>
 <div style="display: flex;">
 <p style="margin:6px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3521676-2945120.png" width=50px alt="MongoDB" title="MongoDB">
+    <img src="https://www.pngkey.com/png/full/494-4942154_mongodb-icon-mongodb-svg.png" width=50px alt="MongoDB" title="MongoDB">
 </p>
 
 <p style="margin:6px;">
@@ -118,7 +118,7 @@ comments: false
 </p>
 
 <p style="margin:6px;">
-    <img src="https://desnar.com/static/images/prog_lang/rest.png" width=50px alt="Visual Studio Code" title="Visual Studio Code">
+    <img src="https://desnar.com/static/images/prog_lang/rest.png" width=50px alt="API" title="API">
 </p>
 
 <p style="margin:6px;">
