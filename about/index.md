@@ -17,6 +17,7 @@ comments: false
 * Linux, Bash
 
 ## Areas of Interest
+* Python Programming
 * Frontend & Backend Development
 * Data Mining & Analysis
 
