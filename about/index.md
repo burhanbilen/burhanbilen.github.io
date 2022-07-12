@@ -66,9 +66,7 @@ comments: false
 <p style="margin:6px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" alt="CSS" title="CSS">
 </p>
-</div>
 
-<div style="display: flex;">
 <p style="margin:6px;">
     <img src="https://newscrewdriver.files.wordpress.com/2018/02/flask.png" width="50px" alt="Flask" title="Flask">
 </p>
@@ -80,7 +78,9 @@ comments: false
 <p style="margin:6px;">
     <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="50px" alt="Postman" title="Postman">
 </p>
+</div>
 
+<div style="display: flex;">
 <p style="margin:6px;">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50px" alt="Visual Studio Code" title="Visual Studio Code">
 </p>
@@ -96,9 +96,7 @@ comments: false
 <p style="margin:6px;">
     <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="50px" alt="Git" title="Git">
 </p>
-</div>
 
-<div style="display: flex;">
 <p style="margin:6px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="50px" alt="Docker" title="Docker">
 </p>
@@ -117,10 +115,6 @@ comments: false
 
 <p style="margin:6px;">
     <img src="https://desnar.com/static/images/prog_lang/rest.png" width="50px" alt="API" title="API">
-</p>
-
-<p style="margin:6px;">
-    <img src="https://flask-sqlalchemy.palletsprojects.com/en/2.x/_static/flask-sqlalchemy-logo.png" width="100px" alt="SQLAlchemy" title="SQLAlchemy">
 </p>
 
 <p style="margin:6px;">
