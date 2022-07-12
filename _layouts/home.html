@@ -8,6 +8,11 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    <style>
+        span > a:hover {
+            color: #3d1352;
+        }
+    </style>
 </head>
 <body>
     {% include nav.html %}
@@ -29,7 +34,9 @@ layout: compress
                         	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
 			            </a>
                     </h3>
-                    {% include social-links.html %}
+                    <span>
+                        {% include social-links.html %}
+                    </span>
                   <hr class="hr-line">
                   <h3 class="title">
                          <a class="btn zoombtn" href="/about">
