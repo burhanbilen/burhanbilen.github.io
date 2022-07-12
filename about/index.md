@@ -6,24 +6,14 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://burhanbilen.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## Digital Skills
+* Python, C#
+* PostgreSQL, MySQL, MongoDB, Redis
+* Machine Learning, Deep Learning
+* HTML, CSS, Bootstrap
+* JavaScript, React
+* Flask, Django
+* Git, Docker
+* Linux, Bash
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Theme by (Moon)[https://taylantatli.github.io/Moon/moon-theme/]
