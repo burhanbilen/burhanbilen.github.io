@@ -95,7 +95,7 @@ comments: false
 </p>
 
 <p style="margin:6px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width=50px alt="Git" title="Git">
+    <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width=50px alt="Git" title="Git">
 </p>
 
 <p style="margin:6px;">
