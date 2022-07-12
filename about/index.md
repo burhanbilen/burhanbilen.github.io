@@ -13,19 +13,23 @@ comments: false
  </tr>
  <tr>
      <td>
-        * Python, C#
-        * PostgreSQL, MySQL, MongoDB, Redis
-        * Machine Learning, Deep Learning
-        * HTML, CSS, Bootstrap
-        * JavaScript, React
-        * Flask, Django
-        * Git, Docker
-        * Linux, Bash
+        <ul>
+            <li>Python, C#</li>
+            <li>PostgreSQL, MySQL, MongoDB, Redis</li>
+            <li>Machine Learning, Deep Learning</li>
+            <li>HTML, CSS, Bootstrap</li>
+            <li>JavaScript, React</li>
+            <li>Flask, Django</li>
+            <li>Git, Docker</li>
+            <li>Linux, Bash</li>
+        </ul>
      </td>
      <td>
-        * Python Programming
-        * Frontend & Backend Development
-        * Data Mining & Analysis
+        <ul>
+            <li>Python Programming</li>
+            <li>Frontend & Backend Development</li>
+            <li>Data Mining & Analysis</li>
+        </ul>
      </td>
  </tr>
 </table>
