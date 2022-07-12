@@ -119,7 +119,7 @@ comments: false
 </p>
 
 <p style="margin:6px;">
-    <img src="https://flask-sqlalchemy.palletsprojects.com/en/2.x/_static/flask-sqlalchemy-logo.png" width="50px" alt="SQLAlchemy" title="SQLAlchemy">
+    <img src="https://flask-sqlalchemy.palletsprojects.com/en/2.x/_static/flask-sqlalchemy-logo.png" width="100px" alt="SQLAlchemy" title="SQLAlchemy">
 </p>
 
 <p style="margin:6px;">
