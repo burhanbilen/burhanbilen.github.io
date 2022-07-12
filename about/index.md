@@ -68,7 +68,7 @@ comments: false
 </p>
 
 <p style="margin:6px;">
-    <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" width="50px" alt="Flask" title="Flask">
+    <img src="https://damiandeluca.com.ar/wp-content/uploads/2020/05/flask.jpg" width="50px" alt="Flask" title="Flask">
 </p>
 
 <p style="margin:6px;">
