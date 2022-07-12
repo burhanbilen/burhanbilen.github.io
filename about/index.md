@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2022-07-12
 comments: false
 ---
-
+<div style="display:grid;">
 <table border="0" style="margin-left:auto; margin-right:auto; width:100%; height:100%">
  <tr>
     <td><b style="font-size:30px">Digital Skills</b></td>
@@ -33,5 +33,6 @@ comments: false
      </td>
  </tr>
 </table>
+</div>
 
 Theme by [Moon](https://taylantatli.github.io/Moon/moon-theme/)
